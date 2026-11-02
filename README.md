@@ -94,7 +94,7 @@ This is expected: Windows doesn't apply dark mode to message boxes.
 
 If you'd rather not keep AutoHotkey installed, you can turn the script into a standalone program:
 
-1. Open **Ahk2Exe** (included with AutoHotkey; search for it in the Start menu).
+1. Open **AutoHotKey Dash**, and select **Compile** and it will install Ahk2Exe for you.
 2. Select `game_dropdown.ahk` as the source and click **Convert**.
 3. Point your desktop shortcut at the new `.exe` instead.
 
