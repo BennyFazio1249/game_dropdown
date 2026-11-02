@@ -1,6 +1,6 @@
 # Game Dropdown
 
-A small AutoHotkey script that replaces a cluttered desktop full of game shortcuts with a single **Games** icon. Double-click it and a menu pops up listing all your games, each with its own icon. Click one to launch it.
+A small AutoHotkey script that replaces a cluttered desktop full of game shortcuts with a single **Games** icon. Double-click it and a menu pops up listing all your games, each with its own icon. Click one to launch it. Similar to right clicking the steam icon. I just wanted a way to do the same thing through a desktop icon.
 
 ## Features
 
